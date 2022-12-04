@@ -4,7 +4,7 @@ const error = document.getElementById("error");
 const success = document.querySelector(".success");
 
 btn.addEventListener("click", (e) => {
-  e.preventDefault;
+  e.preventDefault();
   //   let field = input.value;
 
   let re =
